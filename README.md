@@ -169,11 +169,12 @@
 
 
 #### Articles
-- 📜 [Artical text](#)
+- 📜 [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+- 📜 [JavaScript Use Strict](https://www.w3schools.com/js/js_strict.asp)
 
 
 #### Videos
-- 🎬 [Video title](#)
+- 🎬 [Strict Mode — "use strict" - Beau teaches JavaScript](https://youtu.be/uqUYNqZx0qY?si=OpfJy5E99Hmvv8Pb)
 
 </details>
 
