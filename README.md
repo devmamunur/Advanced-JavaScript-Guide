@@ -14,7 +14,6 @@
 - **[ES6 and Modern JavaScript](#es6-and-modern-javascript) ⚡**
 - **[DOM and Web API](#dom-and-web-api) 🌐**
 - **[Testing and Debugging](#testing-and-debugging) 🛠️**
-- **[Frameworks and Libraries](#frameworks-and-libraries) 📚**
 - **[Package Managers and Build Tools](#package-managers-and-build-tools) 🧰**
 - **[Security and Best Practices](#security-and-best-practices) 🔐**
 - **[Performance Optimization](#performance-optimization) 🚀**
@@ -270,19 +269,6 @@
 8. What is linting in JavaScript, and why is it important?
 9. How do you use the "console.assert" method for debugging?
 10. What is a stack trace, and how can it help in debugging JavaScript code.
-
-## Frameworks and Libraries
-
-1. What is React, and how does it differ from other JavaScript libraries?
-2. Describe the core concepts of React, such as components, props, and state.
-3. What is the Virtual DOM in React, and why is it important?
-4. Explain the concept of "hooks" in React.
-5. What is Redux, and how does it manage state in a React application?
-6. What is Angular, and how does it differ from React and Vue?
-7. Describe the component-based architecture of Angular.
-8. What is Vue.js, and how does it compare to React and Angular?
-9. Explain the reactivity system in Vue.js.
-10. What is the purpose of the "Vuex" library in Vue.js.
 
 ## Package Managers and Build Tools
 
