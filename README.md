@@ -22,23 +22,7 @@
 
 
 #### ArticlesArticles
-- 📜 [Artical text](#)
-
-
-#### Videos
-- 🎬 [Video title](#)
-
-</details>
-
----
-
-### 2. Explain the difference between "null" and "undefined" in JavaScript.
-<details>
-<summary><b>Answer</b></summary>
-
-
-#### ArticlesArticles
-- 📜 [What is JavaScript? -- MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- 📜 [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 
 #### Videos
@@ -48,17 +32,32 @@
 
 ---
 
-### 3. How do you declare a variable in JavaScript?
+### 2. How do you declare a variable in JavaScript?
 <details>
 <summary><b>Answer</b></summary>
 
 
 #### ArticlesArticles
-- 📜 [Artical text](#)
+- 📜 [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
 
 
 #### Videos
-- 🎬 [Video title](#)
+- 🎬 [How to Create Variables in JavaScript](https://youtu.be/9aGIAL16DL4?si=buUB1kNogREofHBe)
+
+</details>
+
+---
+
+### 3. Explain the difference between "null" and "undefined" in JavaScript.
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### ArticlesArticles
+- 📜 [Undefined Vs Null in JavaScript](https://www.geeksforgeeks.org/undefined-vs-null-in-javascript/)
+
+#### Videos
+- 🎬 [Null vs Undefined - Beau teaches JavaScript](https://youtu.be/VwaqJy_clnc?si=zY5HL7ULslsl5LMn)
 
 </details>
 
