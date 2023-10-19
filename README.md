@@ -1,3 +1,12 @@
+
+<h1 align="center">
+      Advanced JavaScript Guide
+</h1>
+<h3 align="center"> 
+  This repository is designed to enhance your JavaScript proficiency and prepare you effectively for job interviews.
+</h3>
+<br>
+
 ## Table of Contents
 - **[Basic JavaScript](#basic-javascript) 🌟**
 - **[Intermediate JavaScript](#intermediate-javascript) 🚀**
