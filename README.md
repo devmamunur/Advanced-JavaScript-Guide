@@ -120,11 +120,12 @@
 
 
 #### Articles
--  📜 [Artical text](#)
-
+-  📜 [What is Hoisting in JavaScript?](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/)
+-  📜 [JavaScript Hoisting](https://www.w3schools.com/js/js_hoisting.asp)
+-  📜 [JavaScript Hoisting](https://www.geeksforgeeks.org/javascript-hoisting/)
 
 #### Videos
-- 🎬 [Video title](#)
+- 🎬 [Learn JavaScript Hoisting In 5 Minutes](https://youtu.be/EvfRXyKa_GI?si=mRTxs9qRYM6VO9Z5)
 
 </details>
 
