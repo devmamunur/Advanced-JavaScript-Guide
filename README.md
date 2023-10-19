@@ -137,11 +137,13 @@
 
 
 #### Articles
-- 📜 [Artical text](#)
+- 📜 [How is == Different from === in JavaScript?](https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/)
+- 📜 [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
 
 
 #### Videos
-- 🎬 [Video title](#)
+- 🎬 [== vs === in JavaScript | Which one is better? | Strict vs Loose Equality](https://youtu.be/nQJrfphxKBg?si=BMmaluqphvRRmBCh)
+- 🎬 [JavaScript == VS ===](https://youtu.be/C5ZVC4HHgIg?si=MLIQAxCzl4EfSbWo)
 
 </details>
 
