@@ -1,17 +1,18 @@
 ## Table of Contents
-- **[Basic JavaScript](#basic-javascript)**
-- **[Intermediate JavaScript](#intermediate-javascript)**
-- **[Advanced JavaScript](#advanced-javascript)**
-- **[DOM and Web API](#dom-and-web-api)**
-- **[ES6 and Modern JavaScript](#es6-and-modern-javascript)**
-- **[Testing and Debugging](#testing-and-debugging)**
-- **[Advanced Topics in JavaScript](#advanced-topics-in-javascript)**
-- **[Frameworks and Libraries](#frameworks-and-libraries)**
-- **[Package Managers and Build Tools](#package-managers-and-build-tools)**
-- **[Security and Best Practices](#security-and-best-practices)**
-- **[Performance Optimization](#performance-optimization)**
-- **[APIs and Asynchronous Programming](#apis-and-asynchronous-programming)**
-- **[JavaScript Patterns and Best Practices](#javascript-patterns-and-best-practices)**
+- **[Basic JavaScript](#basic-javascript) 🌟**
+- **[Intermediate JavaScript](#intermediate-javascript) 🚀**
+- **[Advanced JavaScript](#advanced-javascript) 🔥**
+- **[DOM and Web API](#dom-and-web-api) 🌐**
+- **[ES6 and Modern JavaScript](#es6-and-modern-javascript) ⚡**
+- **[Testing and Debugging](#testing-and-debugging) 🛠️**
+- **[Advanced Topics in JavaScript](#advanced-topics-in-javascript) 💡🏆**
+- **[Frameworks and Libraries](#frameworks-and-libraries) 📚**
+- **[Package Managers and Build Tools](#package-managers-and-build-tools) 🧰**
+- **[Security and Best Practices](#security-and-best-practices) 🔐**
+- **[Performance Optimization](#performance-optimization) 🚀**
+- **[APIs and Asynchronous Programming](#apis-and-asynchronous-programming) 🌐**
+- **[JavaScript Patterns and Best Practices](#javascript-patterns-and-best-practices) 🛠️**
+
 
 ## Basic JavaScript
 
