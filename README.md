@@ -201,16 +201,13 @@
 7. Explain what "async/await" is and how it works.
 8. How can you handle errors in JavaScript?
 9. What is the difference between "let," "const," and "var" when declaring variables.
-10. What is the event loop in JavaScript, and how does it work?
-11. Explain the differences between "setTimeout" and "setInterval."
-12. How does the module system work in JavaScript (e.g., CommonJS, ES6 modules)?
-13. What is the difference between "map," "filter," and "reduce" in JavaScript?
-14. Explain the concept of "closures."
-15. What is memoization in JavaScript?
-16. How does the "spread" operator work in JavaScript?
-17. What are generators and how do they work?
-18. Describe the concept of functional programming in JavaScript.
-19. How can you avoid callback hell (Pyramid of Doom) in JavaScript?
+10. Explain the differences between "setTimeout" and "setInterval."
+11. How does the module system work in JavaScript (e.g., CommonJS, ES6 modules)?
+12. What is the difference between "map," "filter," and "reduce" in JavaScript?
+13. Explain the concept of "closures."
+14. How does the "spread" operator work in JavaScript?
+15. What are generators and how do they work?
+16. How can you avoid callback hell (Pyramid of Doom) in JavaScript?
 
 ## Advanced JavaScript
 
