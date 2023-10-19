@@ -155,6 +155,8 @@
 
 </details>
 
+---
+
 ### 9. How do you comment in JavaScript?
 <details>
 <summary><b>Answer</b></summary>
