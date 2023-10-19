@@ -1,10 +1,10 @@
 ## Table of Contents
-- **[Basic JavaScript Questions](#basic-javascript-questions)**
-- **[Intermediate JavaScript Questions](#intermediate-javascript-questions)**
-- **[Advanced JavaScript Questions](#advanced-javascript-questions)**
-- **[DOM and Web API Questions](#dom-and-web-api-questions)**
-- **[ES6 and Modern JavaScript Questions](#es6-and-modern-javascript-questions)**
-- **[Testing and Debugging Questions](#testing-and-debugging-questions)**
+- **[Basic JavaScript](#basic-javascript)**
+- **[Intermediate JavaScript](#intermediate-javascript)**
+- **[Advanced JavaScript](#advanced-javascript)**
+- **[DOM and Web API](#dom-and-web-api)**
+- **[ES6 and Modern JavaScript](#es6-and-modern-javascript)**
+- **[Testing and Debugging](#testing-and-debugging)**
 - **[Advanced Topics in JavaScript](#advanced-topics-in-javascript)**
 - **[Frameworks and Libraries](#frameworks-and-libraries)**
 - **[Package Managers and Build Tools](#package-managers-and-build-tools)**
@@ -13,7 +13,7 @@
 - **[APIs and Asynchronous Programming](#apis-and-asynchronous-programming)**
 - **[JavaScript Patterns and Best Practices](#javascript-patterns-and-best-practices)**
 
-## Basic JavaScript Questions
+## Basic JavaScript
 
 ### 1. What is JavaScript?
 <details>
@@ -173,7 +173,7 @@
 
 ---
 
-## Intermediate JavaScript Questions
+## Intermediate JavaScript
 
 1. What is the DOM, and how do you manipulate it using JavaScript?
 2. Explain the concept of event delegation.
@@ -186,7 +186,7 @@
 9. How can you handle errors in JavaScript?
 10. What is the difference between "let," "const," and "var" when declaring variables.
 
-## Advanced JavaScript Questions
+## Advanced JavaScript
 
 1. What is the event loop in JavaScript, and how does it work?
 2. Explain the differences between "setTimeout" and "setInterval."
@@ -199,7 +199,7 @@
 9. Describe the concept of functional programming in JavaScript.
 10. How can you avoid callback hell (Pyramid of Doom) in JavaScript?
 
-## DOM and Web API Questions
+## DOM and Web API
 
 1. How do you create an element in the DOM using JavaScript?
 2. Explain the difference between "clientHeight," "offsetHeight," and "scrollHeight."
@@ -212,7 +212,7 @@
 9. What is the "Event" object in JavaScript, and how is it used?
 10. Describe the difference between "target" and "currentTarget" in event handling.
 
-## ES6 and Modern JavaScript Questions
+## ES6 and Modern JavaScript
 
 1. What are arrow functions in ES6, and how do they differ from regular functions?
 2. Explain the concept of template literals in ES6.
@@ -225,7 +225,7 @@
 9. Describe the "Map" and "Set" data structures in ES6.
 10. What is the "spread" operator in ES6, and how does it work.
 
-## Testing and Debugging Questions
+## Testing and Debugging
 
 1. What are unit tests, and how can you write them in JavaScript?
 2. Explain the purpose of a test runner in JavaScript testing.
