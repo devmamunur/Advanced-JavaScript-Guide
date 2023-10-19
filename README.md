@@ -153,11 +153,11 @@
 
 
 #### Articles
-- 📜 [Artical text](#)
+- 📜 [JavaScript Comments](https://www.w3schools.com/js/js_comments.asp)
 
 
 #### Videos
-- 🎬 [Video title](#)
+- 🎬 [JavaScript for Beginners — Code Comments](https://youtu.be/Uso-h6n7x2A?si=1X18rORCgTj1m39J)
 
 </details>
 
