@@ -21,7 +21,7 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
+#### Articles
 - 📜 [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 
@@ -37,7 +37,7 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
+#### Articles
 - 📜 [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
 
 
@@ -53,7 +53,7 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
+#### Articles
 - 📜 [Undefined Vs Null in JavaScript](https://www.geeksforgeeks.org/undefined-vs-null-in-javascript/)
 
 #### Videos
@@ -68,12 +68,13 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
-- 📜 [Artical text](#)
+#### Articles
+- 📜 [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- 📜 [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp)
 
 
 #### Videos
-- 🎬 [Video title](#)
+- 🎬 [Different Data Types in JavaScript](https://youtu.be/O9by2KcR2v4?si=zSsVKRKED2OIJ0fb)
 
 </details>
 
@@ -84,12 +85,12 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
-- 📜 [Artical text](#)
+#### Articles
+- 📜 [The typeof Operator](https://www.w3schools.com/js/js_typeof.asp#:~:text=You%20can%20use%20the%20typeof,type%20of%20a%20JavaScript%20variable.)
 
 
 #### Videos
-- 🎬 [Video title](#)
+- 🎬 [JavaScript for Beginners — Checking Variable Types](https://youtu.be/bBg8JCsmUi0?si=97tsCPtFC2Kf4cBG)
 
 </details>
 
@@ -100,12 +101,14 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
-- 📜 [Artical text](#)
+#### Articles
+- 📜 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- 📜 [Closure in JavaScript](https://www.geeksforgeeks.org/closure-in-javascript/)
+- 📜 [JavaScript Closures](https://www.w3schools.com/js/js_function_closures.asp)
 
 
 #### Videos
-- 🎬 [Video title](#)
+- 🎬 [Learn Closures In 7 Minutes](https://youtu.be/3a0I8ICR1Vg?si=fprzFGZcn0baPX_Z)
 
 </details>
 
@@ -116,7 +119,7 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
+#### Articles
 -  📜 [Artical text](#)
 
 
@@ -132,7 +135,7 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
+#### Articles
 - 📜 [Artical text](#)
 
 
@@ -146,7 +149,7 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
+#### Articles
 - 📜 [Artical text](#)
 
 
@@ -162,7 +165,7 @@
 <summary><b>Answer</b></summary>
 
 
-#### ArticlesArticles
+#### Articles
 - 📜 [Artical text](#)
 
 
