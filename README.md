@@ -1,17 +1,17 @@
 ## Table of Contents
-1. **[Basic JavaScript Questions](#basic-javascript-questions)**
-2. **[Intermediate JavaScript Questions](#intermediate-javascript-questions)**
-3. **[Advanced JavaScript Questions](#advanced-javascript-questions)**
-4. **[DOM and Web API Questions](#dom-and-web-api-questions)**
-5. **[ES6 and Modern JavaScript Questions](#es6-and-modern-javascript-questions)**
-6. **[Testing and Debugging Questions](#testing-and-debugging-questions)**
-7. **[Advanced Topics in JavaScript](#advanced-topics-in-javascript)**
-8. **[Frameworks and Libraries](#frameworks-and-libraries)**
-9. **[Package Managers and Build Tools](#package-managers-and-build-tools)**
-10. **[Security and Best Practices](#security-and-best-practices)**
-11. **[Performance Optimization](#performance-optimization)**
-12. **[APIs and Asynchronous Programming](#apis-and-asynchronous-programming)**
-13. **[JavaScript Patterns and Best Practices](#javascript-patterns-and-best-practices)**
+- **[Basic JavaScript Questions](#basic-javascript-questions)**
+- **[Intermediate JavaScript Questions](#intermediate-javascript-questions)**
+- **[Advanced JavaScript Questions](#advanced-javascript-questions)**
+- **[DOM and Web API Questions](#dom-and-web-api-questions)**
+- **[ES6 and Modern JavaScript Questions](#es6-and-modern-javascript-questions)**
+- **[Testing and Debugging Questions](#testing-and-debugging-questions)**
+- **[Advanced Topics in JavaScript](#advanced-topics-in-javascript)**
+- **[Frameworks and Libraries](#frameworks-and-libraries)**
+- **[Package Managers and Build Tools](#package-managers-and-build-tools)**
+- **[Security and Best Practices](#security-and-best-practices)**
+- **[Performance Optimization](#performance-optimization)**
+- **[APIs and Asynchronous Programming](#apis-and-asynchronous-programming)**
+- **[JavaScript Patterns and Best Practices](#javascript-patterns-and-best-practices)**
 
 ## Basic JavaScript Questions
 
