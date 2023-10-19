@@ -38,11 +38,11 @@
 
 
 #### ArticlesArticles
-- 📜 [Artical text](#)
+- 📜 [What is JavaScript? -- MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 
 #### Videos
-- 🎬 [Video title](#)
+- 🎬 [What is JavaScript?](https://youtu.be/upDLs1sn7g4?si=z8MWR3EbFOwItCs3)
 
 </details>
 
