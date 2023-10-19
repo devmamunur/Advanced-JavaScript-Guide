@@ -11,10 +11,9 @@
 - **[Basic JavaScript](#basic-javascript) 🌟**
 - **[Intermediate JavaScript](#intermediate-javascript) 🚀**
 - **[Advanced JavaScript](#advanced-javascript) 🔥**
-- **[DOM and Web API](#dom-and-web-api) 🌐**
 - **[ES6 and Modern JavaScript](#es6-and-modern-javascript) ⚡**
+- **[DOM and Web API](#dom-and-web-api) 🌐**
 - **[Testing and Debugging](#testing-and-debugging) 🛠️**
-- **[Advanced Topics in JavaScript](#advanced-topics-in-javascript) 💡🏆**
 - **[Frameworks and Libraries](#frameworks-and-libraries) 📚**
 - **[Package Managers and Build Tools](#package-managers-and-build-tools) 🧰**
 - **[Security and Best Practices](#security-and-best-practices) 🔐**
@@ -194,67 +193,24 @@
 1. What is the DOM, and how do you manipulate it using JavaScript?
 2. Explain the concept of event delegation.
 3. What is a callback function, and why is it used in JavaScript?
-4. What is the difference between "null" and "undefined" in JavaScript?
-5. Describe the purpose of "this" in JavaScript and how it is determined.
-6. How does prototypal inheritance work in JavaScript?
-7. What are promises in JavaScript, and how do they work?
-8. Explain what "async/await" is and how it works.
-9. How can you handle errors in JavaScript?
-10. What is the difference between "let," "const," and "var" when declaring variables.
+4. Describe the purpose of "this" in JavaScript and how it is determined.
+5. How does prototypal inheritance work in JavaScript?
+6. What are promises in JavaScript, and how do they work?
+7. Explain what "async/await" is and how it works.
+8. How can you handle errors in JavaScript?
+9. What is the difference between "let," "const," and "var" when declaring variables.
+10. What is the event loop in JavaScript, and how does it work?
+11. Explain the differences between "setTimeout" and "setInterval."
+12. How does the module system work in JavaScript (e.g., CommonJS, ES6 modules)?
+13. What is the difference between "map," "filter," and "reduce" in JavaScript?
+14. Explain the concept of "closures."
+15. What is memoization in JavaScript?
+16. How does the "spread" operator work in JavaScript?
+17. What are generators and how do they work?
+18. Describe the concept of functional programming in JavaScript.
+19. How can you avoid callback hell (Pyramid of Doom) in JavaScript?
 
 ## Advanced JavaScript
-
-1. What is the event loop in JavaScript, and how does it work?
-2. Explain the differences between "setTimeout" and "setInterval."
-3. How does the module system work in JavaScript (e.g., CommonJS, ES6 modules)?
-4. What is the difference between "map," "filter," and "reduce" in JavaScript?
-5. Explain the concept of "closures."
-6. What is memoization in JavaScript?
-7. How does the "spread" operator work in JavaScript?
-8. What are generators and how do they work?
-9. Describe the concept of functional programming in JavaScript.
-10. How can you avoid callback hell (Pyramid of Doom) in JavaScript?
-
-## DOM and Web API
-
-1. How do you create an element in the DOM using JavaScript?
-2. Explain the difference between "clientHeight," "offsetHeight," and "scrollHeight."
-3. How do you add an event listener to an element in the DOM?
-4. What is the purpose of the XMLHttpRequest object in JavaScript?
-5. How can you make an HTTP request in JavaScript using the Fetch API?
-6. What is CORS, and how do you handle it in JavaScript?
-7. Explain the difference between the "localStorage" and "sessionStorage" objects.
-8. How do you manipulate CSS properties in JavaScript?
-9. What is the "Event" object in JavaScript, and how is it used?
-10. Describe the difference between "target" and "currentTarget" in event handling.
-
-## ES6 and Modern JavaScript
-
-1. What are arrow functions in ES6, and how do they differ from regular functions?
-2. Explain the concept of template literals in ES6.
-3. What are destructuring assignments in ES6?
-4. How does the "class" keyword work in ES6 for object-oriented programming?
-5. What are "promises" in ES6, and how do they differ from callbacks?
-6. Explain the use of the "async/await" feature in ES6.
-7. What is the purpose of the "let" and "const" keywords in ES6?
-8. How can you import and export modules in ES6?
-9. Describe the "Map" and "Set" data structures in ES6.
-10. What is the "spread" operator in ES6, and how does it work.
-
-## Testing and Debugging
-
-1. What are unit tests, and how can you write them in JavaScript?
-2. Explain the purpose of a test runner in JavaScript testing.
-3. How can you use the "debugger" statement in JavaScript for debugging?
-4. Describe the concept of "console.log" and its usage in debugging.
-5. What is a breakpoint, and how do you set one in a browser's developer tools?
-6. How can you handle runtime errors in JavaScript code?
-7. Explain the purpose of "try-catch" blocks in error handling.
-8. What is linting in JavaScript, and why is it important?
-9. How do you use the "console.assert" method for debugging?
-10. What is a stack trace, and how can it help in debugging JavaScript code.
-
-## Advanced Topics in JavaScript
 
 1. Describe the concept of memoization in JavaScript.
 2. What is functional programming, and how can it be applied in JavaScript?
@@ -276,6 +232,45 @@
 18. What is the Event Loop in Node.js, and how does it differ from the browser's Event Loop?
 19. Explain the concept of microservices and their role in modern web development.
 20. What are Web Components, and how can they be used in JavaScript applications.
+
+## ES6 and Modern JavaScript
+
+1. What are arrow functions in ES6, and how do they differ from regular functions?
+2. Explain the concept of template literals in ES6.
+3. What are destructuring assignments in ES6?
+4. How does the "class" keyword work in ES6 for object-oriented programming?
+5. What are "promises" in ES6, and how do they differ from callbacks?
+6. Explain the use of the "async/await" feature in ES6.
+7. What is the purpose of the "let" and "const" keywords in ES6?
+8. How can you import and export modules in ES6?
+9. Describe the "Map" and "Set" data structures in ES6.
+10. What is the "spread" operator in ES6, and how does it work.
+
+## DOM and Web API
+
+1. How do you create an element in the DOM using JavaScript?
+2. Explain the difference between "clientHeight," "offsetHeight," and "scrollHeight."
+3. How do you add an event listener to an element in the DOM?
+4. What is the purpose of the XMLHttpRequest object in JavaScript?
+5. How can you make an HTTP request in JavaScript using the Fetch API?
+6. What is CORS, and how do you handle it in JavaScript?
+7. Explain the difference between the "localStorage" and "sessionStorage" objects.
+8. How do you manipulate CSS properties in JavaScript?
+9. What is the "Event" object in JavaScript, and how is it used?
+10. Describe the difference between "target" and "currentTarget" in event handling.
+
+## Testing and Debugging
+
+1. What are unit tests, and how can you write them in JavaScript?
+2. Explain the purpose of a test runner in JavaScript testing.
+3. How can you use the "debugger" statement in JavaScript for debugging?
+4. Describe the concept of "console.log" and its usage in debugging.
+5. What is a breakpoint, and how do you set one in a browser's developer tools?
+6. How can you handle runtime errors in JavaScript code?
+7. Explain the purpose of "try-catch" blocks in error handling.
+8. What is linting in JavaScript, and why is it important?
+9. How do you use the "console.assert" method for debugging?
+10. What is a stack trace, and how can it help in debugging JavaScript code.
 
 ## Frameworks and Libraries
 
