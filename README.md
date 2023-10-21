@@ -191,7 +191,25 @@
 
 ## Intermediate JavaScript
 
-1. What is the DOM, and how do you manipulate it using JavaScript?
+### 1. What is the DOM, and how do you manipulate it using JavaScript?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+- 📜 [Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+- 📜 [How to Manipulate the DOM - the Ultimate Beginner's Guide](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/)
+
+
+#### Videos
+- 🎬 [JavaScript DOM Manipulation – Full Course for Beginners](https://youtu.be/5fb2aPlgoys?si=cJnpobcIl2yZWG5d)
+- 🎬 [Learn DOM Manipulation In 18 Minutes](https://youtu.be/y17RuWkWdn8?si=EbnkiHRcCPqAOLlL)
+
+</details>
+
+---
+
 2. Explain the concept of event delegation.
 3. What is a callback function, and why is it used in JavaScript?
 4. Describe the purpose of "this" in JavaScript and how it is determined.
