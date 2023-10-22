@@ -230,7 +230,25 @@
 
 ---
 
-3. What is a callback function, and why is it used in JavaScript?
+### 3. What is a callback function, and why is it used in JavaScript?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [JavaScript Callbacks](https://www.w3schools.com/js/js_callback.asp)
+- 📜 [Callback function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+- 📜 [JavaScript Callback Functions – What are Callbacks in JS and How to Use Them](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
+
+
+#### Videos
+- 🎬 [JavaScript Callbacks Explained in 5 Minutes](https://youtu.be/kz_vwAF4NHI?si=erLDHFpbu-YGjztm)
+- 🎬 [Callback Functions in JS ft. Event Listeners](https://youtu.be/btj35dh3_U8?si=Gp5ttNXnBgUXWmlW)
+- 🎬 [WHAT IS A CALLBACK FUNCTION IN JAVASCRIPT? - Explained with Callback Examples](https://youtu.be/qtfi4-8dj9c?si=e7x-NbKkyB4UJlAv)
+
+</details>
+
+---
 4. Describe the purpose of "this" in JavaScript and how it is determined.
 5. How does prototypal inheritance work in JavaScript?
 6. What are promises in JavaScript, and how do they work?
