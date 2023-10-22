@@ -210,7 +210,26 @@
 
 ---
 
-2. Explain the concept of event delegation.
+### 2. Explain the concept of event delegation.
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [Event Delegation in JavaScript –Explained with an Example](https://www.freecodecamp.org/news/event-delegation-javascript/)
+- 📜 [What is Event Delegation in JavaScript?](https://medium.com/@bretdoucette/part-4-what-is-event-delegation-in-javascript-f5c8c0de2983)
+- 📜 [Event Delegation in JavaScript](https://www.geeksforgeeks.org/event-delegation-in-javascript/)
+
+
+#### Videos
+- 🎬 [Event Delegation in JavaScript, Simplified](https://youtu.be/aZ3JWv0ofuA?si=JtqCU-HMgziem-h6)
+- 🎬 [What is Event Delegation?](https://youtu.be/pKzf80F3O0U?si=nKQcQS9znI6qpjzA)
+- 🎬 [Event Delegation in Javascript](https://youtu.be/3KJI1WZGDrg?si=3FbKE0DoYO80WddG)
+
+</details>
+
+---
+
 3. What is a callback function, and why is it used in JavaScript?
 4. Describe the purpose of "this" in JavaScript and how it is determined.
 5. How does prototypal inheritance work in JavaScript?
