@@ -250,7 +250,7 @@
 
 ---
 
-### Describe the purpose of "this" in JavaScript and how it is determined.
+### 4. Describe the purpose of "this" in JavaScript and how it is determined.
 <details>
 <summary><b>Answer</b></summary>
 
@@ -269,7 +269,7 @@
 
 ---
 
-### How does prototypal inheritance work in JavaScript?
+### 5. How does prototypal inheritance work in JavaScript?
 <details>
 <summary><b>Answer</b></summary>
 
@@ -287,7 +287,26 @@
 </details>
 
 ---
-6. What are promises in JavaScript, and how do they work?
+
+### 6. What are promises in JavaScript, and how do they work?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [JavaScript Promise](https://www.geeksforgeeks.org/javascript-promise/)
+- 📜 [JavaScript Promises](https://www.w3schools.com/js/js_promise.asp)
+- 📜 [How Promises Work in JavaScript ](https://www.freecodecamp.org/news/guide-to-javascript-promises)
+
+
+#### Videos
+- 🎬 [JavaScript Promises -- Tutorial for Beginners](https://youtu.be/TnhCX0KkPqs?si=efYcK87KXHZxMyTG)
+- 🎬 [Promises](https://youtu.be/ap-6PPAuK1Y?si=mmz5HguoLYytRylH)
+
+</details>
+
+---
+
 7. Explain what "async/await" is and how it works.
 8. How can you handle errors in JavaScript?
 9. What is the difference between "let," "const," and "var" when declaring variables.
