@@ -381,7 +381,24 @@
 
 ---
 
-11. How does the module system work in JavaScript (e.g., CommonJS, ES6 modules)?
+### 11. How does the module system work in JavaScript (e.g., CommonJS, ES6 modules)?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [Modules in JavaScript – CommonJS and ESmodules Explained](https://www.freecodecamp.org/news/modules-in-javascript/)
+- 📜 [Difference between node.js require and ES6 import and export](https://www.geeksforgeeks.org/difference-between-node-js-require-and-es6-import-and-export/)
+
+
+#### Videos
+- 🎬 [Require vs Import Javascript](https://youtu.be/mK54Cn4ceac?si=gbXj873VXxSBOcL4)
+- 🎬 [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://youtu.be/qJWALEoGge4?si=D7_tt7f4_SgNf8-o)
+
+</details>
+
+---
+
 12. What is the difference between "map," "filter," and "reduce" in JavaScript?
 13. Explain the concept of "closures."
 14. How does the "spread" operator work in JavaScript?
