@@ -307,7 +307,25 @@
 
 ---
 
-7. Explain what "async/await" is and how it works.
+### 7. Explain what "async/await" is and how it works.
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [Async/Await Function in JavaScript](https://www.geeksforgeeks.org/async-await-function-in-javascript/)
+- 📜 [Async/await](https://javascript.info/async-await)
+- 📜 [How to Use Async/Await in JavaScript with Example JS Code](https://www.freecodecamp.org/news/async-await-in-javascript/)
+
+
+#### Videos
+- 🎬 [Async Await vs. Promises - JavaScript Tutorial for beginners](https://youtu.be/spvYqO_Kp9Q?si=VcTKJ9TOOmXT5AKK)
+- 🎬 [async await](https://youtu.be/6nv3qy3oNkc?si=NoJBS9KHrkYdv_na)
+
+</details>
+
+---
+
 8. How can you handle errors in JavaScript?
 9. What is the difference between "let," "const," and "var" when declaring variables.
 10. Explain the differences between "setTimeout" and "setInterval."
