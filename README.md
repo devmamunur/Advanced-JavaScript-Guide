@@ -269,7 +269,24 @@
 
 ---
 
-5. How does prototypal inheritance work in JavaScript?
+### How does prototypal inheritance work in JavaScript?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- 📜 [JavaScript Prototypes and Inheritance](https://www.freecodecamp.org/news/prototypes-and-inheritance-in-javascript/)
+- 📜 [Prototypal Inheritance using __proto__ in JavaScript](https://www.geeksforgeeks.org/prototypal-inheritance-using-__proto__-in-javascript/)
+
+
+#### Videos
+- 🎬 [Prototype and Prototypal Inheritance in Javascript ](https://youtu.be/wstwjQ1yqWQ?si=8iRD5kdU6y9xB3Bu)
+- 🎬 [JavaScript Prototypal inheritance ](https://youtu.be/1UTqFAjYx1k?si=gcgSo_3EA2ytLnRV)
+
+</details>
+
+---
 6. What are promises in JavaScript, and how do they work?
 7. Explain what "async/await" is and how it works.
 8. How can you handle errors in JavaScript?
