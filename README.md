@@ -344,7 +344,25 @@
 
 ---
 
-9. What is the difference between "let," "const," and "var" when declaring variables.
+### 9. What is the difference between "let," "const," and "var" when declaring variables.
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [var, let, and const in JavaScript – the Differences Between These Keywords Explained](https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/)
+- 📜 [Difference between var, let and const keywords in JavaScript](https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/)
+
+
+#### Videos
+- 🎬 [JavaScript Let vs Var vs Constant](https://youtu.be/XgSjoHgy3Rk?si=s-LGJ718BqqDV6E7)
+- 🎬 [let & const in JS 🔥Temporal Dead Zone](https://youtu.be/BNC6slYCj50?si=-O8qYF50913QkyuD)
+- 🎬 [Differences Between Var, Let, and Const](https://youtu.be/9WIJQDvt4Us?si=Mdd-PfA2nN_7P74-)
+
+</details>
+
+---
+
 10. Explain the differences between "setTimeout" and "setInterval."
 11. How does the module system work in JavaScript (e.g., CommonJS, ES6 modules)?
 12. What is the difference between "map," "filter," and "reduce" in JavaScript?
