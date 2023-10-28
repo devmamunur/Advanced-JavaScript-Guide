@@ -399,7 +399,25 @@
 
 ---
 
-12. What is the difference between "map," "filter," and "reduce" in JavaScript?
+### 12. What is the difference between "map," "filter," and "reduce" in JavaScript?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [JavaScript Map, Reduce, and Filter ](https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/)
+- 📜 [How to use map(), filter(), and reduce() in JavaScript ?](https://www.geeksforgeeks.org/how-to-use-map-filter-and-reduce-in-javascript/)
+
+
+#### Videos
+- 🎬 [map, filter & reduce ](https://youtu.be/zdp0zrpKzIE?si=JWm-YjfL-mk_ETJa)
+- 🎬 [ map, filter, reduce, some, every, find, findIndex, forEach](https://youtu.be/Urwzk6ILvPQ?si=iN1qlIgipgF0_qHf)
+- 🎬 [Map, Filter & Reduce EXPLAINED](https://youtu.be/8MoElay6dWU?si=OUxAZWFnRZrKxCmr)
+
+</details>
+
+---
+
 13. Explain the concept of "closures."
 14. How does the "spread" operator work in JavaScript?
 15. What are generators and how do they work?
