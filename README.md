@@ -438,7 +438,26 @@
 
 ---
 
-14. How does the "spread" operator work in JavaScript?
+### 14. How does the "spread" operator work in JavaScript?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [Spread syntax (...)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+- 📜 [React ES6 Spread Operator](https://www.w3schools.com/react/react_es6_spread.asp)
+- 📜 [JavaScript Spread Operator](https://www.geeksforgeeks.org/javascript-spread-operator/)
+
+
+#### Videos
+- 🎬 [JS Spread Operator: How It Works & Why I Love It](https://youtu.be/pYI-UuZVtHI?si=C_w63fAaS6NqeFxB)
+- 🎬 [...spread operator and rest operator](https://youtu.be/iLx4ma8ZqvQ?si=sUxXP7UaSfIsdtJ9)
+- 🎬 [Spread Syntax | ...args | JavaScript](https://youtu.be/peR_ZBA353M?si=4BMP7YmnZT4A6tM2)
+
+</details>
+
+---
+
 15. What are generators and how do they work?
 16. How can you avoid callback hell (Pyramid of Doom) in JavaScript?
 
