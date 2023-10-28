@@ -326,7 +326,24 @@
 
 ---
 
-8. How can you handle errors in JavaScript?
+### 8. How can you handle errors in JavaScript?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [JavaScript Errors](https://www.w3schools.com/js/js_errors.asp)
+- 📜 [Error handling, "try...catch"](https://javascript.info/try-catch)
+
+
+#### Videos
+- 🎬 [try, catch, finally, throw - error handling in JavaScript](https://youtu.be/cFTFtuEQ-10?si=lwPJas1oGoG55V5x)
+- 🎬 [The EASY Way to Handle Errors in JavaScript (For Beginners)](https://youtu.be/7nG2shBeWUo?si=bUVxJyzKl1lz0Zv5)
+
+</details>
+
+---
+
 9. What is the difference between "let," "const," and "var" when declaring variables.
 10. Explain the differences between "setTimeout" and "setInterval."
 11. How does the module system work in JavaScript (e.g., CommonJS, ES6 modules)?
