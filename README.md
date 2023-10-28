@@ -363,7 +363,24 @@
 
 ---
 
-10. Explain the differences between "setTimeout" and "setInterval."
+### 10. Explain the differences between "setTimeout" and "setInterval."
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [JavaScript Timing Events](https://www.w3schools.com/js/js_timing.asp)
+- 📜 [JavaScript Timing Events: setTimeout and setInterval](https://www.freecodecamp.org/news/javascript-timing-events-settimeout-and-setinterval/)
+
+
+#### Videos
+- 🎬 [setTimeout() and setInterval() – JavaScript Tutorial](https://youtu.be/kTg-5HBqiyQ?si=Nvcw9MCyv7QxsB3f)
+- 🎬 [How to use setTimeout() and setInterval() ](https://youtu.be/0ewbT5YJdR8?si=aDrGCB25TrA61JCv)
+
+</details>
+
+---
+
 11. How does the module system work in JavaScript (e.g., CommonJS, ES6 modules)?
 12. What is the difference between "map," "filter," and "reduce" in JavaScript?
 13. Explain the concept of "closures."
