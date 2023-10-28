@@ -458,8 +458,41 @@
 
 ---
 
-15. What are generators and how do they work?
-16. How can you avoid callback hell (Pyramid of Doom) in JavaScript?
+### 15. What are generators and how do they work?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+- 📜 [ JavaScript Visualized: Generators and Iterators](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
+- 📜 [Yield! Yield! How Generators work in JavaScript.](https://www.freecodecamp.org/news/yield-yield-how-generators-work-in-javascript-3086742684fc/)
+
+
+#### Videos
+- 🎬 [Learn JavaScript Generators In 12 Minutes](https://youtu.be/IJ6EgdiI_wU?si=nKZwPHYFJwJEfpR9)
+- 🎬 [The Power of JS Generators by Anjana Vakil](https://youtu.be/gu3FfmgkwUc?si=HPu2XzJDlUuMok6W)
+
+</details>
+
+---
+
+### 16. How can you avoid callback hell (Pyramid of Doom) in JavaScript?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [How to deal with nested callbacks and avoid “callback hell”](https://www.freecodecamp.org/news/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012/)
+- 📜 [Callback Hell and How to Rescue it ?](https://dev.to/jerrycode06/callback-hell-and-how-to-rescue-it-ggj)
+
+#### Videos
+- 🎬 [Callback Hell](https://youtu.be/yEKtJGha3yM?si=6zfzle3IatWygoGb)
+- 🎬 [Javascript Nuggets - Callback Hell](https://youtu.be/bx9xYPt2tdc?si=NIAAEKqnN0ES52Ky)
+
+</details>
+
+---
 
 ## Advanced JavaScript
 
