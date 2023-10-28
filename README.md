@@ -249,7 +249,26 @@
 </details>
 
 ---
-4. Describe the purpose of "this" in JavaScript and how it is determined.
+
+### Describe the purpose of "this" in JavaScript and how it is determined.
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [This](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+- 📜 [The JavaScript this Keyword](https://www.w3schools.com/js/js_this.asp)
+- 📜 [A super-easy way to determine 'this' in JavaScript](https://dev.to/kelvin0712/a-super-easy-way-to-determine-this-in-javascript-ob5)
+
+
+#### Videos
+- 🎬 [JavaScript this Keyword](https://youtu.be/gvicrj31JOM?si=lCROKAOHlXn8pT23)
+- 🎬 [What is this? | JavaScript](https://youtu.be/kE93zNJBCBw?si=5XL05ldgwJBo6ZYj)
+
+</details>
+
+---
+
 5. How does prototypal inheritance work in JavaScript?
 6. What are promises in JavaScript, and how do they work?
 7. Explain what "async/await" is and how it works.
