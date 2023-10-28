@@ -418,7 +418,26 @@
 
 ---
 
-13. Explain the concept of "closures."
+### 13. Explain the concept of "closures."
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- 📜 [JavaScript Closures](https://www.w3schools.com/js/js_function_closures.asp)
+- 📜 [Closure in JavaScript – Explained with Examples](https://www.freecodecamp.org/news/javascript-closures-explained-with-example/)
+
+
+#### Videos
+- 🎬 [JavaScript Closures Tutorial](https://youtu.be/aHrvi2zTlaU?si=vwQZpI5zBR762gKJ)
+- 🎬 [Closures in JS](https://youtu.be/qikxEIxsXco?si=U7jzKGSdcmTcMOnT)
+- 🎬 [Closures Explained in 100 Seconds](https://youtu.be/vKJpN5FAeF4?si=-qtNorjAv9sslEES)
+
+</details>
+
+---
+
 14. How does the "spread" operator work in JavaScript?
 15. What are generators and how do they work?
 16. How can you avoid callback hell (Pyramid of Doom) in JavaScript?
