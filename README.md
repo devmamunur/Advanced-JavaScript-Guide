@@ -496,7 +496,24 @@
 
 ## Advanced JavaScript
 
-1. Describe the concept of memoization in JavaScript.
+### 1. Describe the concept of memoization in JavaScript.
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [What is Memoization? How and When to Memoize in JavaScript and React](https://www.freecodecamp.org/news/memoization-in-javascript-and-react/)
+- 📜 [JavaScript Memoization](https://www.geeksforgeeks.org/javascript-memoization/)
+- 📜 [Memoization in Javascript](https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16)
+
+#### Videos
+- 🎬 [Memoization and How to Memoize | Javascript Memoization Tutorial](https://youtu.be/TWUV_LRVX24?si=PhDvpdUi7EhBnuyV)
+- 🎬 [Memoization And Dynamic Programming Explained](https://youtu.be/WbwP4w6TpCk?si=DF2pbqt8RCg-wB3P)
+
+</details>
+
+---
+
 2. What is functional programming, and how can it be applied in JavaScript?
 3. Explain how currying and composition work in functional programming.
 4. What are Web Workers, and how can they improve JavaScript performance?
