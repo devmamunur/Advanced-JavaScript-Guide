@@ -514,7 +514,23 @@
 
 ---
 
-2. What is functional programming, and how can it be applied in JavaScript?
+### 2. What is functional programming, and how can it be applied in JavaScript?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [What is Functional Programming? A Beginner's JavaScript Guide](https://www.freecodecamp.org/news/functional-programming-in-javascript/)
+- 📜 [JIntroduction to Functional Programming: JavaScript Paradigms](https://www.toptal.com/javascript/functional-programming-javascript)
+
+#### Videos
+- 🎬 [Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://youtu.be/e-5obm1G_FY?si=ACCOqmSuVRiIDZc3)
+- 🎬 [Learn Functional Programming With JavaScript | FREE COURSE](https://youtu.be/XvLMO2wE3OQ?si=j-LWt1fCdC7GvaVo)
+
+</details>
+
+---
+
 3. Explain how currying and composition work in functional programming.
 4. What are Web Workers, and how can they improve JavaScript performance?
 5. How does lazy loading of scripts enhance web page performance?
