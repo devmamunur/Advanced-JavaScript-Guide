@@ -531,7 +531,22 @@
 
 ---
 
-3. Explain how currying and composition work in functional programming.
+### 3. Explain how currying and composition work in functional programming.
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [How to Use Currying and Composition in JavaScript](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)
+- 📜 [Real world example of compose function and currying.](https://dev.to/pegahsafaie/real-world-example-of-compose-function-and-currying-3ofl)
+
+#### Videos
+- 🎬 [Function Composition - Functional JavaScript](https://www.youtube.com/live/mth5WpEc4Qs?si=ZekpBp0fAfFtA0Iu)
+
+</details>
+
+---
+
 4. What are Web Workers, and how can they improve JavaScript performance?
 5. How does lazy loading of scripts enhance web page performance?
 6. What is the Event Loop and how does it work in JavaScript?
