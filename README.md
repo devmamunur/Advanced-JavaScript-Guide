@@ -19,6 +19,7 @@
 - **[Performance Optimization](#performance-optimization) 🚀**
 - **[APIs and Asynchronous Programming](#apis-and-asynchronous-programming) 🌐**
 - **[JavaScript Patterns and Best Practices](#javascript-patterns-and-best-practices) 🛠️**
+- **[Beginner ReactJS](#beginner-reactjs) ⚛️**
 
 
 ## Basic JavaScript
@@ -667,4 +668,18 @@
 9. Describe the MVVM (Model-View-ViewModel) pattern and its role in frameworks like Knockout.js.
 10. How do you implement the Flux architecture in JavaScript applications, and what libraries are associated with it.
 
+## Beginner ReactJS
+
+1. How does React use the virtual DOM to make things faster?
+2. What are React Hooks, and why are they useful?
+3. Can you explain the difference between controlled and uncontrolled components in React?
+4. What is JSX in React, and how is it different from regular HTML? Can you provide an example?
+5. How does the `useEffect` hook help in React? Can you give an example?
+6. Why is the `key` attribute important when working with lists in React?
+7. What is the purpose of the `setState` method in React, and why is it used?
+8. Explain the concept of props in React and how they differ from state.
+9. How does conditional rendering work in React, and can you provide an example?
+10. What is the significance of the `render` method in a React component?
+11. How do you handle forms in React, and what is the role of controlled components?
+12. What is the purpose of the `React.Fragment` in React?
 
