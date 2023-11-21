@@ -20,6 +20,7 @@
 - **[APIs and Asynchronous Programming](#apis-and-asynchronous-programming) 🌐**
 - **[JavaScript Patterns and Best Practices](#javascript-patterns-and-best-practices) 🛠️**
 - **[Beginner ReactJS](#beginner-reactjs) ⚛️**
+- **[Intermediate ReactJS](#intermediate-reactjs) ⚛️ 🚀**
 
 
 ## Basic JavaScript
@@ -682,4 +683,29 @@
 10. What is the significance of the `render` method in a React component?
 11. How do you handle forms in React, and what is the role of controlled components?
 12. What is the purpose of the `React.Fragment` in React?
+
+## Intermediate ReactJS
+
+1. Can you explain Higher Order Components (HOC) in React in simple terms?
+2. What is Redux, and how does it work with React?
+3. Explain the Flux architecture briefly and its connection to React.
+4. When should you use Redux instead of local state management in React?
+5. How is React Context different from Redux for state management?
+6. What is the `shouldComponentUpdate` method in React, and why is it important for performance?
+7. What are useMemo and useCallback hooks in React, and when do you use each?
+8. Can you give an example of code splitting in React? Why is it useful?
+9. What is server-side rendering (SSR) in React, and why might you use it?
+10. How does the `dangerouslySetInnerHTML` attribute work in React?
+11. What are portals in React, and when might you use them?
+12. How does lazy loading improve React app performance?
+13. How do you prevent unnecessary re-renders in React?
+14. Explain the difference between state and context in React.
+15. How does event handling differ in React compared to traditional HTML?
+16. Explain the concept of "lifting state up" in React and when it is beneficial.
+17. What is the significance of the `this` keyword in class components in React?
+18. How does error handling work in React applications?
+19. What are React refs, and how are they used in React components?
+20. How does the `componentDidMount` lifecycle method differ from `useEffect` in functional components?
+
+
 
