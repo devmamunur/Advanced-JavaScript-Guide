@@ -21,6 +21,7 @@
 - **[JavaScript Patterns and Best Practices](#javascript-patterns-and-best-practices) 🛠️**
 - **[Beginner ReactJS](#beginner-reactjs) ⚛️**
 - **[Intermediate ReactJS](#intermediate-reactjs) ⚛️ 🚀**
+- **[Advanced ReactJS](#advanced-reactjs) ⚛️ 🔥**
 
 
 ## Basic JavaScript
@@ -707,5 +708,41 @@
 19. What are React refs, and how are they used in React components?
 20. How does the `componentDidMount` lifecycle method differ from `useEffect` in functional components?
 
+
+## Advanced ReactJS
+
+1. How can a child component communicate with a parent in React?
+2. How do you pass data from one React component to another?
+3. What is the difference between real DOM and virtual DOM in React?
+4. How can you make React re-render only a specific component without the entire browser?
+5. What distinguishes stateful and stateless components in React?
+6. How do you send data from a parent component to a child component in React?
+7. Why did React move away from class-based components?
+8. What is the `useEffect` hook, and why is it useful in React?
+9. Explain lazy routing in React with a simple example.
+10. Why use className instead of class in React for styling?
+11. What is an error boundary in React, and why is it helpful?
+12. How does Axios differ from Fetch in React, and when would you use each?
+13. What are the limitations of React.js?
+14. Differences between local storage and session storage in React, and how do you use them?
+15. Why is React so popular?
+16. What is JSX, and how does it make React development easier?
+17. How do `useMemo` and `useCallback` differ in React, and when do you use each?
+18. Differences between `useState` and `useReducer` in React and their use cases.
+19. Explain the purpose of `React.createRef` in React and when it's preferable.
+20. What does the `memo` function do in React, and when would you use it?
+21. What is the role of the `useLayoutEffect` hook in React, and when is it used?
+22. Differences between shallow rendering and full rendering in React testing.
+23. What is the role of the `children` prop in React components?
+24. How does React handle routing in Single Page Applications (SPAs)?
+25. What does the `dangerouslySetInnerHTML` prop do in React?
+26. When and why would you use `React.PureComponent` in React?
+27. Explain automatic batching in React and how it improves performance.
+28. What is an error boundary in React, and why is it helpful?
+29. Differences between useState and useReducer in React and their use cases.
+30. What is suspense in the server in React, and how does it contribute to improving user experience in asynchronous operations?
+31. What is reconciliation in React, and how does it play a crucial role in updating the DOM efficiently?
+32. Differences between Higher Order Components and React Hooks.
+33. Differences between functional components and class-based components and why functional components are needed.
 
 
