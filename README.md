@@ -547,7 +547,24 @@
 
 ---
 
-4. What are Web Workers, and how can they improve JavaScript performance?
+### 4. What are Web Workers, and how can they improve JavaScript performance?
+<details>
+<summary><b>Answer</b></summary>
+
+
+#### Articles
+- 📜 [Improve Web Performance With Web Workers](https://dev.to/nikhiltatpati/improve-web-performance-with-web-workers-3jal)
+- 📜 [Power of Web Workers – Multithreading in JavaScript](https://www.geeksforgeeks.org/power-of-web-workers-multithreading-in-javascript/)
+
+#### Videos
+- 🎬 [Web Workers in Action](https://youtu.be/fh2rKs7eupg?si=NRD-QpBLalLeFeWH)
+- 🎬 [Mastering Web Workers](https://youtu.be/4chX0kqznaE?si=PnAy8C87wWtL3Ypw)
+- 🎬 [JavaScript Web Workers Explained](https://youtu.be/Gcp7triXFjg?si=eqhtjvwfSjm9pe_P)
+
+</details>
+
+---
+
 5. How does lazy loading of scripts enhance web page performance?
 6. What is the Event Loop and how does it work in JavaScript?
 7. Describe the purpose of Service Workers in web development.
